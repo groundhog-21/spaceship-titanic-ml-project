@@ -1,1 +1,17 @@
-...
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Kaggle-compatible gradient boosting libraries
+xgboost
+lightgbm
+catboost
+
+# Jupyter environment
+jupyterlab
+ipykernel
+
+# Optional but helpful
+tqdm
